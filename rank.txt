@@ -1,0 +1,10 @@
+9
+hello 	2901
+me 	940
+me 	760
+hi 	599
+hello 	280
+hi 	210
+welcome	210
+me 	200
+me 	190
